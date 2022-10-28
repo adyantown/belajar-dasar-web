@@ -1,4 +1,4 @@
-# frontenddasar
+# Belajar Dasar Pemrograman Web
 
 Project Submission Dicoding yang mempelajari dasar dari Front-End Development.
 
